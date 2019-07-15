@@ -12,4 +12,4 @@ The ListView.builder has properties like itemCount - which is the total no of sc
 
 
 
-ListView.builder is appropriate for ListViews with a large or infinite number of children because the builder is called only for those children that are actually visible.
+Note : ListView.builder is appropriate for ListViews with a large or infinite number of children because the builder is called only for those children that are actually visible.
